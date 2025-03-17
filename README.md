@@ -1,8 +1,16 @@
-# React + Vite
+A modern and responsive car rental website built using React.js and Tailwind CSS. This project provides an interactive and user-friendly interface for users to browse, book, and rent cars online.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌟 Features
+✅ Home Page – A beautifully designed landing page showcasing available cars and services.
+✅ Car Listings – Users can explore a wide range of rental cars with detailed information.
+✅ Search & Filters – Find the perfect car using search and category-based filtering.
+✅ Booking System – Users can book cars by selecting rental dates and vehicle preferences.
+✅ Responsive Design – Fully optimized for desktops, tablets, and mobile devices.
+✅ Smooth UI/UX – Built with Tailwind CSS for a clean and modern design.
+✅ Fast & Scalable – Powered by React.js for dynamic and seamless performance.
+✅ Efficient State Management – Utilizing React Hooks (useState, useEffect, useContext) for better performance.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Technologies Used
+React.js – Frontend framework for building dynamic UI
+Tailwind CSS – Utility-first CSS framework for styling
+React Hooks – Managing state effectively (useState, useEffect, useContext)
