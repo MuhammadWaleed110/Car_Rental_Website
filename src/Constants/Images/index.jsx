@@ -1,17 +1,17 @@
-const bannerCar = "/public/banner-car.png";
-const car = "/public/car.png";
-const car1 = "/public/car1.png";
-const car2 = "/public/car2.png";
-const car3 = "/public/car3.png";
-const car4 = "/public/car4.png";
-const whiteCar = "/public/white-car.png";
-const mercedezBenz = "/public/Mercedes-benz-.png";
-const bmw = "/public/BMW-M3.png";
-const mercedezBenzCClass = "/public/Mercedes-Benz_C-Class.png"; 
-const tesla = "/public/Tesla Model-S.png"; // 
-const pattern = "/public/pattern.jpeg";
-const appStore = "/public/app_store.png";
-const playStore = "/public/play_store.png";
+const bannerCar = `${import.meta.env.BASE_URL}public/banner-car.png`;
+const car = `${import.meta.env.BASE_URL}public/car.png`;
+const car1 = `${import.meta.env.BASE_URL}public/car1.png`;
+const car2 = `${import.meta.env.BASE_URL}public/car2.png`;
+const car3 = `${import.meta.env.BASE_URL}public/car3.png`;
+const car4 = `${import.meta.env.BASE_URL}public/car4.png`;
+const whiteCar = `${import.meta.env.BASE_URL}public/white-car.png`;
+const mercedezBenz = `${import.meta.env.BASE_URL}public/Mercedes-benz-.png`;
+const bmw = `${import.meta.env.BASE_URL}public/BMW-M3.png`;
+const mercedezBenzCClass = `${import.meta.env.BASE_URL}public/Mercedes-Benz_C-Class.png`; 
+const tesla = `${import.meta.env.BASE_URL}public/Tesla Model-S.png`;
+const pattern = `${import.meta.env.BASE_URL}public/pattern.jpeg`;
+const appStore = `${import.meta.env.BASE_URL}public/app_store.png`;
+const playStore = `${import.meta.env.BASE_URL}public/play_store.png`;
 
 const Images = {
   bannerCar,
